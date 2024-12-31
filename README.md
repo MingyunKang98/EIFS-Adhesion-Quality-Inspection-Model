@@ -1,6 +1,6 @@
 # The Journey of the EIFS has been ended!!!!!
 
-## our paper
+## Our paper
 https://www.mdpi.com/2076-3417/15/1/125
 
 ## Prerequisite
