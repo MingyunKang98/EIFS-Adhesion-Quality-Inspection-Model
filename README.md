@@ -12,9 +12,10 @@ Built on Wed_Sep_21_10:41:10_Pacific_Daylight_Time_2022
 Cuda compilation tools, release 11.8, V11.8.89
 Build cuda_11.8.r11.8/compiler.31833905_0
 ```
-``` 
-git clone 
-pip install -r requirements.txt
-```
 
+## Install
+``` 
+git clone https://github.com/MingyunKang98/EIFS-Adhesion-Quality-Inspection-Model.git
+pip install -r requirements.txt
+python3 Our_Model/YOLOv8/after_predict.py
 ```
